@@ -3,6 +3,6 @@ package test;
 public class TestClass{
 	public static void main (String [] args) {
 		System.out.println("Pozdrav svete aaa");
-		System.out.println("proba");	
+		System.out.println("proba 1");	
 	}
 }
